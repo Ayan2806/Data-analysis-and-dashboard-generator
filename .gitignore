@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environments
+.env
+.venv
+venv/
+
+# Temporary files
+temp/
+*.tmp
+*.log
+
+# Data files (processed/generated)
+*.csv
+*.xlsx
+
+# Streamlit
+.streamlit/
+secrets.toml
+
+# OS generated
+.DS_Store
+Thumbs.db

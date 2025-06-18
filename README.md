@@ -7,10 +7,19 @@
 
 A Streamlit-powered dashboard for automated data exploration, visualization, and report generation.
 
+Screenshot-1
 ![Dashboard Preview](assets/dashboard.png)
+
+Screenshot-2
 ![Dashboard Preview](assets/dashboard1.png)
+
+Screenshot-3
 ![Dashboard Preview](assets/dashboard2.png)
+
+Screenshot-4
 ![Dashboard Preview](assets/dashboard3.png)
+
+Screenshot-5
 ![Dashboard Preview](assets/dashboard4.png)
 
 ## ✨ Features
